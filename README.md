@@ -1,6 +1,6 @@
 # Keefi Firdaus
 
-Informatics Student at President University (Class of 2025)
+Informatics Student at President University (Batch of 2025)
 
 ---
 
