@@ -1,16 +1,22 @@
-## Hi there 👋
+# Keefi Firdaus
 
-<!--
-**KeefiFirdaus/KeefiFirdaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics Student at President University (Class of 2025)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Informatics student from President University, Bekasi, West Java. Passionate about building software solutions and continuous learning in computer science.
+
+---
+
+## Contact
+
+- **Email**: almerkeefi@gmail.com | almerkeefi@outlook.com
+- **Student Email**: keefi.firdaus@student.president.ac.id
+- **LinkedIn**: [linkedin.com/in/keefialmerfirdaus](https://linkedin.com/in/keefialmerfirdaus)
+- **Location**: Bekasi, West Java, Indonesia
+
+---
+
+*Active on GitHub | Open to collaboration*
